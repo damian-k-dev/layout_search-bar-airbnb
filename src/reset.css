@@ -1,0 +1,9 @@
+body {
+  margin: 0;
+  font-family: Avenir, sans-serif;
+  font-weight: 300;
+}
+
+input {
+  box-sizing: border-box;
+}
